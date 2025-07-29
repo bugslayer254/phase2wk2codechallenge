@@ -6,8 +6,12 @@
     gap: 80px;
 }
 
+.goalform {
 
-.deposit-goal {
+    flex: 1;
+}
+
+.depositgoal {
 
     flex: 1;
 }
