@@ -45,7 +45,7 @@ cd smart-goal-planner
 npm install
 
 ### 3.Start JSON Server
-  json-server --watch db.json --port 3000 --cors
+  json-server --watch db.json --port 3000
 
 ### 4.Start the React App
 
